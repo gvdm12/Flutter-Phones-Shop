@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935552577",
+    "project_id": "flutter-phones-shop",
+    "storage_bucket": "flutter-phones-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935552577:android:3d4cae6df792a812cf88c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_phones_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYfadUs_ModGrc1rOfbeydL9GMYesek-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
